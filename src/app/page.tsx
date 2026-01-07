@@ -17,12 +17,9 @@ export default function Home() {
         <Hero />
       </div>
 
-      {/* SECTION 2: ABOUT ME (The Context) */}
-      <div className="w-full">
-        <About />
-      </div>
 
-      {/* SECTION 3: PROJECTS (The Technical Proof) */}
+
+      {/* SECTION 2: PROJECTS (The Technical Proof) */}
       <section id="projects" className="w-full max-w-6xl mx-auto px-6 py-24">
         <h2 className="text-4xl font-bold mb-12 text-white font-mono flex items-center gap-4">
           <span className="text-emerald-500 text-xl">01.</span> Selected_Projects
@@ -33,11 +30,17 @@ export default function Home() {
         </div>
       </section>
 
-      {/* SECTION 4: SKILLS & TIMELINE */}
+      {/* SECTION 3: SKILLS & TIMELINE */}
       <div className="w-full max-w-6xl mx-auto">
         <Skills />
         <Timeline />
       </div>
+
+      {/* SECTION 4: ABOUT ME (The Context) */}
+      <div className="w-full">
+        <About />
+      </div>
+
 
       <AIChatbot />
 
