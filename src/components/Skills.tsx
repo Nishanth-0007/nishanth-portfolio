@@ -12,7 +12,7 @@ export default function Skills() {
   return (
     <section id="skills" className="w-full max-w-6xl px-6 py-20">
       <h2 className="text-3xl font-bold mb-10 text-white font-mono flex items-center gap-4">
-        <span className="text-emerald-500 text-xl">02.</span> Technical_Stack
+        <span className="text-emerald-500 text-xl">02.</span> Technical Stack
       </h2>
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
         {skills.map((skill, index) => (

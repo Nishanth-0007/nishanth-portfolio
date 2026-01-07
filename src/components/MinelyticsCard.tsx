@@ -18,7 +18,7 @@ export default function MinelyticsCard() {
       </div>
       
       <p className="text-slate-400 text-sm mb-6">
-        Carbon emission tracking for coal mining using synthetic data and soil classification[cite: 17, 23].
+        Carbon emission tracking for coal mining using synthetic data and soil classification.
       </p>
 
       <div className="grid grid-cols-2 gap-4">
@@ -43,7 +43,7 @@ export default function MinelyticsCard() {
 
       <div className="mt-6 space-y-2">
         <div className="flex justify-between text-xs text-slate-500">
-          <span>Soil Classification (Alluvial, Black, Clay, Laterite, Red) [cite: 21]</span>
+          <span>Soil Classification (Alluvial, Black, Clay, Laterite, Red)</span>
           <span>Processing...</span>
         </div>
         <div className="w-full bg-slate-800 h-1.5 rounded-full overflow-hidden">

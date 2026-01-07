@@ -4,7 +4,7 @@ export default function Navbar() {
       <div className="text-emerald-500 font-mono font-bold">NISHANTH_LOG v1.0</div>
       <div className="flex gap-6 text-sm font-mono text-slate-400">
         <a href="#projects" className="hover:text-white transition">PROJECTS</a>
-        <a href="#about" className="hover:text-white transition">EXPERIENCE</a>
+        <a href="#about" className="hover:text-white transition">ABOUT ME</a>
       </div>
     </nav>
   );

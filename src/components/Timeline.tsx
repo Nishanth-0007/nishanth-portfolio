@@ -28,7 +28,7 @@ export default function Timeline() {
 
   return (
     <section className="w-full max-w-6xl px-6 py-20 bg-[#080808] rounded-3xl border border-slate-900">
-      <h2 className="text-3xl font-bold mb-12 text-white font-mono">03. Leadership_&_Wins</h2>
+      <h2 className="text-3xl font-bold mb-10 text-white font-mono flex items-center gap-4"><span className="text-emerald-500 text-xl">03.</span> Leadership & Wins</h2>
       <div className="space-y-8">
         {activities.map((act, i) => (
           <div key={i} className="flex gap-6 p-6 rounded-xl hover:bg-white/5 transition-colors group">

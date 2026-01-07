@@ -29,14 +29,14 @@ export default function CodeVerseCard() {
             <Lock size={14} />
             <span className="text-[10px] font-bold uppercase">Security</span>
           </div>
-          <p className="text-xs text-slate-300">JWT & Session Auth [cite: 27]</p>
+          <p className="text-xs text-slate-300">JWT & Session Auth</p>
         </div>
         <div className="bg-black/40 p-3 rounded-xl border border-slate-800">
           <div className="flex items-center gap-2 text-purple-400 mb-1">
             <Cpu size={14} />
             <span className="text-[10px] font-bold uppercase">Backend</span>
           </div>
-          <p className="text-xs text-slate-300">Modular Architecture [cite: 28]</p>
+          <p className="text-xs text-slate-300">Modular Architecture</p>
         </div>
       </div>
 

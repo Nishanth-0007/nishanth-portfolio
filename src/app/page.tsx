@@ -22,7 +22,7 @@ export default function Home() {
       {/* SECTION 2: PROJECTS (The Technical Proof) */}
       <section id="projects" className="w-full max-w-6xl mx-auto px-6 py-24">
         <h2 className="text-4xl font-bold mb-12 text-white font-mono flex items-center gap-4">
-          <span className="text-emerald-500 text-xl">01.</span> Selected_Projects
+          <span className="text-emerald-500 text-xl">01.</span> Top Projects
         </h2>
         <div className="grid md:grid-cols-2 gap-10">
           <MinelyticsCard />

@@ -11,7 +11,7 @@ export default function About() {
           className="space-y-6"
         >
           <h2 className="text-3xl font-bold text-white font-mono">
-            <span className="text-emerald-500 text-xl">04.</span> About_Me
+            <span className="text-emerald-500 text-xl">04.</span> About Me
           </h2>
           <p className="text-slate-400 leading-relaxed">
             I am a final-year Artificial Intelligence and Machine Learning student  with a passion for building scalable applications and AI-driven solutions. As a Class Representative, I bridge the gap between students and faculty.
