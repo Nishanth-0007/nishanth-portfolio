@@ -5,6 +5,8 @@ import CodeVerseCard from "@/components/CodeVerseCard";
 import Skills from "@/components/Skills";
 import Timeline from "@/components/Timeline";
 import AIChatbot from "@/components/AIChatbot";
+import ContactClient from "@/components/ContactClient";
+
 
 export default function Home() {
   return (
@@ -34,6 +36,8 @@ export default function Home() {
 
       {/* SECTION 4: ABOUT */}
       <About />
+      <ContactClient />
+
 
       <AIChatbot />
 
